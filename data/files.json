@@ -1,0 +1,121 @@
+[
+  {
+    "type": "folder",
+    "name": "client",
+    "path": "/client",
+    "children": [
+      {
+        "type": "folder",
+        "name": "node_modules",
+        "path": "/client/node_modules",
+        "children": [
+          {
+            "type": "folder",
+            "name": "express",
+            "path": "/client/node_modules/express",
+            "children": [
+              {
+                "type": "file",
+                "name": "index.js",
+                "path": "/client/node_modules/express/index.js"
+              },
+              {
+                "type": "file",
+                "name": "package.json",
+                "path": "/client/node_modules/express/package.json"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "react",
+            "path": "/client/node_modules/react",
+            "children": [
+            {
+                "type": "file",
+                "name": "react.js",
+                "path": "/client/node_modules/react/react.js"
+              },
+              {
+                "type": "file",
+                "name": "package.json",
+                "path": "/client/node_modules/react/package.json"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "name": "src",
+        "path": "/client/src",
+        "children": [
+          {
+            "type": "file",
+            "name": "index.html",
+            "path": "/client/src/index.html"
+          },
+          {
+            "type": "folder",
+            "name": "scripts",
+            "path": "/client/src/scripts",
+            "children": [
+              {
+                "type": "file",
+                "name": "main.js",
+                "path": "/client/src/scripts/main.js"
+              },
+              {
+                "type": "file",
+                "name": "hints.js",
+                "path": "/client/src/scripts/hints.js"
+              },
+              {
+                "type": "file",
+                "name": "utils.js",
+                "path": "/client/src/scripts/utils.js"
+              },
+              {
+                "type": "file",
+                "name": "lib.js",
+                "path": "/client/src/scripts/lib.js"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "name": "styles",
+            "path": "/client/src/styles",
+            "children": [
+              {
+                "type": "file",
+                "name": "main.css",
+                "path": "/client/src/styles/main.css"
+              },
+              {
+                "type": "file",
+                "name": "dashboard.css",
+                "path": "/client/src/styles/dashboard.css"
+              },
+              {
+                "type": "file",
+                "name": "fonts.css",
+                "path": "/client/src/styles/fonts.css"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "file",
+        "name": "package.json",
+        "path": "/client/package.json"
+      },
+      {
+        "type": "file",
+        "name": "readme.md",
+        "path": "/client/readme.md"
+      }
+    ]
+  }
+]

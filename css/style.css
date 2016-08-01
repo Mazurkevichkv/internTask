@@ -1,0 +1,14 @@
+li {
+    padding-left: 40px;
+    color: darkslateblue;
+    margin: 10px;
+}
+img {
+    width: 25px;
+    margin-right: 10px;
+    margin-bottom: -5px;
+}
+ul {
+    margin: 10px;
+    list-style-type: none;
+}
